@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @EmmaTrann
-- 👀 I’m interested in cyber security and machine learning 
-- 🌱 I’m currently learning software engineering
-- 📫 You can reach me via Linkedin (for job) and Instagram (if you want to know more about me) 
+- 👀 I’m currently learning software engineering and I’m interested in cyber security and machine learning. This GitHub account I used to document my university course works. I am curently working as a co-op Software Engineer at @Kinaxis and unfortunately no code can be shared outside. I will update more personal project once I'm back to school again. 
+- 📫 You can reach out to me via Linkedin 
 
 *https://www.linkedin.com/in/emma-tran-83b245208/*
 
-*https://www.instagram.com/mb.smarto/*
 
 <!---
 EmmaTrann/EmmaTrann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
