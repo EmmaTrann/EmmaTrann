@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmmaTrann
-- 👀 I’m a software engineering student. I'm interested in cyber security and data engineering. This GitHub account I used to document my university course works. I am currently working as a co-op Software Engineer at @Kinaxis and unfortunately no code can be shared outside. I will update more personal project once I'm back to school again. 
+- 👀 I’m a software engineering student. I'm interested in data engineering and cloud practices. This GitHub account I used to document my university coursework. 
 - 📫 You can reach out to me via Linkedin 
 
 *https://www.linkedin.com/in/emma-tran-83b245208/*
